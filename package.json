@@ -1,0 +1,21 @@
+{
+  "name": "bilheteria_lembretes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon src/index.js --exec node"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WilliamFerrariMiranda/bilheteria_lembretes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WilliamFerrariMiranda/bilheteria_lembretes/issues"
+  },
+  "homepage": "https://github.com/WilliamFerrariMiranda/bilheteria_lembretes#readme"
+}
